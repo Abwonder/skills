@@ -20,6 +20,7 @@ cp -r /tmp/abwonder-skills/linkedin-writing ~/.config/opencode/skills/
 | Skill | Triggers on | What it does |
 |---|---|---|
 | [`linkedin-writing`](linkedin-writing/) | "we are writing for LinkedIn", "write a LinkedIn post", "LinkedIn carousel", "write Day N", "series post" | Writes posts, series, carousels, comments and DMs in Abioye's voice. Enforces the no-AI writing rules. |
+| [`learning-guide-authoring`](learning-guide-authoring/) | "teach me X from scratch", "break down X from the ground up", "explain X like I know nothing", "build a tutorial for X", "learn X properly including edge cases", "understand X at enterprise/system-design level" | Builds from-zero learning guides that layer up the mental model, hunt edge cases, verify every example by running it, and elevate to enterprise standard with system design and architecture. |
 
 ## Structure
 
