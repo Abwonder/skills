@@ -77,9 +77,10 @@ as decisions (an ADR-style "why we chose X over Y"), not trivia.
 
 ### Phase 6 — Deliver
 
-Write the guide to a file the user can keep, and give a short orientation in chat
-(what it covers, how to follow it). Include runnable snippets and a cheat sheet.
-Stop when the contract is met — do not pad.
+Write the guide to `~/tutorials/<domain>-<topic>.md` (kebab-case) and give a short
+orientation in chat (what it covers, how to follow it). If a guide for the topic
+already exists, extend it instead of creating a parallel copy. Include runnable
+snippets and a cheat sheet. Stop when the contract is met — do not pad.
 
 ## Hard rules
 
